@@ -8,7 +8,7 @@ Frameworks : React.js, Node.js
 Base de données : SQL
 Outils de contrôle de version : Git, GitHub
 Méthodologies de développement : Agile
-![Cover](https://github.com/L-Ourabah/L-Ourabah/blob/master/img/cover.jpg)
+![Cover](https://github.com/L-Ourabah/L-Ourabah/blob/master/img/banniere2.jpg)
 <!--
 **L-Ourabah/L-Ourabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
