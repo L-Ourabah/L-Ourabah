@@ -1,4 +1,13 @@
-### Hi there 👋https://www.linkedin.com/in/ourabah-lounnas-16023017b/
+Bienvenue sur mon profil GitHub !
+À propos de moi
+Je suis un développeur passionné et curieux, constamment à la recherche de nouvelles technologies et de projets intéressants. Mon objectif est de créer des solutions innovantes et de contribuer à des projets qui ont un impact positif.
+
+Compétences techniques
+Langages de programmation : HTML, CSS, JavaScript
+Frameworks : React.js, Node.js
+Base de données : SQL
+Outils de contrôle de version : Git, GitHub
+Méthodologies de développement : Agile
 
 <!--
 **L-Ourabah/L-Ourabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
