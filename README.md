@@ -1,4 +1,4 @@
-![Cover](https://github.com/L-Ourabah/L-Ourabah/blob/master/img/banniere2.jpg)
+![Cover](https://github.com/L-Ourabah/L-Ourabah/blob/master/img/dev.jpg)
 
 Bienvenue sur mon profil GitHub !
 
