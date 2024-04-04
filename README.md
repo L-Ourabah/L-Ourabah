@@ -1,7 +1,7 @@
 ![Cover](https://github.com/L-Ourabah/L-Ourabah/blob/master/img/dev.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Ourabah&layout=compact&theme=outrun&hide_border=enabled)](https://github.com/anuraghazra/github-readme-stats)
-[![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Ourabah&hide=contribs,prs&count_private=true&show_icons=true&theme=jolly&hide_border=enabled)](https://github.com/anuraghazra/github-readme-stats)
+[![Ourabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Ourabah&hide=contribs,prs&count_private=true&show_icons=true&theme=jolly&hide_border=enabled)](https://github.com/anuraghazra/github-readme-stats)
 
 Bienvenue sur mon profil GitHub !
 
